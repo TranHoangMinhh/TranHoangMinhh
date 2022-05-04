@@ -4,7 +4,7 @@
 <!--
 **TranHoangMinhh/TranHoangMinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## 📫 How to reach me:
+<h3> 📫 How to reach me: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/tran-hoang-minh/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -18,7 +18,7 @@
 </p>
 
 <hr>
-## 🔭 I’m currently working AND learning ...:
+<h3> 🔭 I’m currently working AND learning ... </h3>
 
 <h5>Front-end</h5>
 <p >
