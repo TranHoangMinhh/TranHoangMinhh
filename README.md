@@ -1,5 +1,5 @@
 <h2 align="center" > Hi there 👋, I'm Tran Hoang Minh </h2>
-<p align="center"><img src="./Icons/hcmus.png" alt="drawing" width="35"/></p>
+<p align="center" style="border: 10px solid;><img src="./Icons/hcmus.png" alt="drawing" width="40"/></p>
 <h3 align="center"> A passionate developer from Viet Nam </h3>
 - ✍ I'm a third year student of: [Ho Chi Minh city University of Science](https://www.hcmus.edu.vn) (HCMUS).
 
