@@ -1,7 +1,7 @@
 <h2 align="center" > Hi there 👋, I'm Tran Hoang Minh </h2>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Science](https://www.hcmus.edu.vn) (HCMUS).
+- ✍ I'm a third year student of: [Ho Chi Minh city University of Science](https://www.hcmus.edu.vn) (HCMUS).
 
 - 🌱 I’m currently studying **Computer Science**, specialize in Cryptography
 
@@ -11,6 +11,7 @@
 <hr>
 
 <h3> 📫 How to reach me: </h3>
+This is my resume (up-to-date): [TranHoangMinh_SoftwareEngineer-Resume]
 <p align="center">
   <a href="https://www.linkedin.com/in/tran-hoang-minh/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
