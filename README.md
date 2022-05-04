@@ -3,7 +3,7 @@
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Science](https://www.hcmus.edu.vn) (HCMUS).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently studying **Computer Science**, specialize in Cryptography
 
 <!--
 **TranHoangMinhh/TranHoangMinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
