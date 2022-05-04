@@ -18,7 +18,7 @@
 </p>
 
 <hr>
-##🔭 I’m currently working AND learning ...
+## 🔭 I’m currently working AND learning ...
 <h5>Front-end</h5>
 <p >
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
