@@ -10,8 +10,12 @@
 
 <hr>
 
-<h3> 📫 How to reach me: </h3>
+<h3> My Resume </h3>
 This is my resume (up-to-date): [TranHoangMinh_SoftwareEngineer-Resume]
+
+<hr>
+
+<h3> 📫 How to reach me: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/tran-hoang-minh/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
