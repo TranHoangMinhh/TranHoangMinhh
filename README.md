@@ -1,4 +1,4 @@
-<p align="center" > Hi there 👋, I'm Tran Hoang Minh </p>
+<h3 align="center" > Hi there 👋, I'm Tran Hoang Minh </h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 <!--
@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
 </p>
 
-<hr>
 <h5>Back-end</h5>
 <p >
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
