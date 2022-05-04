@@ -1,7 +1,7 @@
 <h2 align="center" > Hi there 👋, I'm Tran Hoang Minh </h2>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+- ✍ I'm a student of: [Ho Chi Minh city University of Science](https://www.hcmus.edu.vn) (HCMUS).
 
 - 🌱 I’m currently learning **MERN Stack.**
 
