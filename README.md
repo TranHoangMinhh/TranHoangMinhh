@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Tran Hoang Minh
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 <!--
 **TranHoangMinhh/TranHoangMinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
