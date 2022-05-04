@@ -1,6 +1,6 @@
 <h2 align="center" > Hi there 👋, I'm Tran Hoang Minh </h2>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<p align="center"> A passionate developer from Viet Nam </p>
+<h4 align="center"> A passionate developer from Viet Nam </h4>
 - ✍ I'm a third year student of: [Ho Chi Minh city University of Science](https://www.hcmus.edu.vn) (HCMUS).
 
 - 🌱 I’m currently studying **Computer Science**, specialize in Cryptography
