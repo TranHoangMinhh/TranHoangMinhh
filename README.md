@@ -1,12 +1,9 @@
 <h2 align="center" > Hi there 👋, I'm Tran Hoang Minh </h2>
 <p align="center"><img src="./Icons/hcmus.png" alt="drawing" width="100"/></p>
 <h3 align="center"> A passionate developer from Viet Nam </h3>
+
 - ✍ I'm a third year student of: [Ho Chi Minh city University of Science](https://www.hcmus.edu.vn) (HCMUS).
-
 - 🌱 I’m currently studying **Computer Science**, specialize in Cryptography
-
-<!--
-**TranHoangMinhh/TranHoangMinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <hr>
 
