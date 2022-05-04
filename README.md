@@ -18,7 +18,7 @@
 </p>
 
 <hr>
-- 🔭 I’m currently working AND learning on ...
+- 🔭 I’m currently working AND learning ...
 <h5>Front-end</h5>
 <p >
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -33,5 +33,6 @@
     <img src="https://img.shields.io/badge/SQL-Server--green?logo=microsoft-sql-server&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python3-14354C?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
