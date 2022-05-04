@@ -11,8 +11,9 @@
 <hr>
 
 <h3> My Resume </h3>
-This is my resume (up-to-date): [TranHoangMinh_SoftwareEngineer-Resume]
-
+<p This is my resume (up-to-date):>
+  <a href ="https://drive.google.com/file/d/1vPZ1Ga0pnHKnf_jSBpi9REzns8GZ2eLo/view?usp=sharing">TranHoangMinh-SoftwareEngineer-Resume</a>
+</p>
 <hr>
 
 <h3> 📫 How to reach me: </h3>
