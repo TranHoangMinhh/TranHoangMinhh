@@ -17,7 +17,6 @@
   </a>
 </p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working AND learning on ...
 <h5>Front-end</h5>
