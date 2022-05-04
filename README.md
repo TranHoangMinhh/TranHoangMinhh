@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 <h5>Back-end</h5>
 <p >
-    <img src="https://img.shields.io/badge/SQL?style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/SQL?logo=microsoft-sql-server&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
