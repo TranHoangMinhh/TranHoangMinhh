@@ -17,7 +17,7 @@
 
 | # | Project | Live demo 
 --- | --- | --- |
-1 | [To do app](https://github.com/TranHoangMinhh/To-Do-Application) | [Live demo](https://codepen.io/tranhoangminhh/full/GRQobxr)
+1 | [To Do app](https://github.com/TranHoangMinhh/To-Do-Application) | [Live demo](https://codepen.io/tranhoangminhh/full/GRQobxr)
 
 <h3> 📫 How to reach me: </h3>
 <p align="center">
