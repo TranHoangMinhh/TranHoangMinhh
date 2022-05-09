@@ -13,6 +13,11 @@
 </p>
 <hr>
 
+<h3> My Projects </h3>
+| # | Project | Live demo 
+--- | --- | --- |
+1 | To do app | [Live demo](https://codepen.io/tranhoangminhh/full/GRQobxr)
+
 <h3> 📫 How to reach me: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/tran-hoang-minh/" target="_blank">
