@@ -13,7 +13,7 @@
 </p>
 <hr>
 
-<h3> My Projects </h3>
+<h3> 💣 My Projects </h3>
 
 | # | Project | Live demo 
 --- | --- | --- |
