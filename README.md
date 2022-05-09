@@ -14,6 +14,7 @@
 <hr>
 
 <h3> My Projects </h3>
+
 | # | Project | Live demo 
 --- | --- | --- |
 1 | To do app | [Live demo](https://codepen.io/tranhoangminhh/full/GRQobxr)
