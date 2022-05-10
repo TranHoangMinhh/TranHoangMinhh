@@ -18,8 +18,8 @@
 | # | Project | Live demo 
 --- | --- | --- |
 1 | [To Do Web app](https://github.com/TranHoangMinhh/To-Do-Application) | [Live demo](https://codepen.io/tranhoangminhh/full/GRQobxr)
-2 | [Text summarization Web app](https://github.com/TranHoangMinhh/Text-Summarization)| [Live demo]
-3 | [Slang words](https://github.com/TranHoangMinhh/19127213_Slang_Dict)| [Live demo](https://www.youtube.com/watch?v=gEheOZdpbQA)
+2 | [Text Summarization Web app](https://github.com/TranHoangMinhh/Text-Summarization)| [Live demo]
+3 | [Slang Words](https://github.com/TranHoangMinhh/19127213_Slang_Dict)| [Live demo](https://www.youtube.com/watch?v=gEheOZdpbQA)
 
 <h3> 📫 How to reach me: </h3>
 <p align="center">
