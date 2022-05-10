@@ -19,7 +19,7 @@
 --- | --- | --- |
 1 | [To Do Web app](https://github.com/TranHoangMinhh/To-Do-Application) | [Live demo](https://codepen.io/tranhoangminhh/full/GRQobxr)
 2 | [Text summarization Web app]| [Live demo]
-3 | [Slang words] | [Live demo]
+3 | [Slang words] (https://github.com/TranHoangMinhh/19127213_Slang_Dict)| [Live demo](https://www.youtube.com/watch?v=gEheOZdpbQA)
 
 <h3> 📫 How to reach me: </h3>
 <p align="center">
