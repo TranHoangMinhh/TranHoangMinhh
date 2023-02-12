@@ -8,7 +8,7 @@
 <hr>
 
 <h3> 🌞 My Resume </h3>
-<p> This is my resume (up-to-date):
+<p> This is my resume (out-dated):
   <a href ="https://drive.google.com/file/d/19aagFTqVq21WWrVQLpXJ-wIJeiEeSLRh/view?usp=sharing">TranHoangMinh-SoftwareEngineer-Resume</a>
 </p>
 <hr>
